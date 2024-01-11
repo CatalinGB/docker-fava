@@ -1,4 +1,4 @@
-fava==1.26.4
+fava==1.27
 -e git+https://github.com/CatalinGB/beancounttools.git#egg=tariochbctools
 smart-importer==0.4
 beancount-reds-plugins==0.3.0
