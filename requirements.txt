@@ -6,7 +6,7 @@ fava-dashboards @ git+https://github.com/andreasgerstmayr/fava-dashboards.git@ma
 beancount_portfolio_allocation==0.3.0
 beancount-interpolate==2.5.0
 git+https://github.com/beancount/beanprice.git
-fava_investor==0.5.0
+fava_investor==0.6.0
 beancount-share==0.1.10
 beancount-refried==0.7.0
 python-Levenshtein==0.23.0
