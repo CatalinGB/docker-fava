@@ -1,4 +1,4 @@
-FROM python:3.12.1
+FROM python:3.13.0a6
 
 ENV BEANCOUNT_FILE ""
 ENV FAVA_OPTIONS "-H 0.0.0.0 -p 5000"
