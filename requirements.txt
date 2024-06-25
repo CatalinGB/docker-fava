@@ -1,16 +1,9 @@
-fava==1.27.3
-tariochbctools==0.34.0
-smart-importer==0.5
-beancount-reds-plugins==0.3.0
-fava-dashboards @ git+https://github.com/andreasgerstmayr/fava-dashboards.git@main
-beancount_portfolio_allocation==0.3.0
-beancount-interpolate==2.5.0
 git+https://github.com/beancount/beanprice.git
 fava_investor==0.7.0
 beancount-share==0.1.10
 beancount-refried==0.7.0
-python-Levenshtein==0.23.0
+python-Levenshtein==0.25.1
 nordigen==1.4.0
 thefuzz==0.22.1
-argcomplete==3.2.1
-pre-commit==3.6.0
+argcomplete==3.4.0
+pre-commit==3.7.1
