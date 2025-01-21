@@ -5,4 +5,4 @@ beancount-refried==0.7.0
 nordigen==1.4.1
 thefuzz==0.22.1
 argcomplete==3.5.1
-pre-commit==4.0.1
+pre-commit==4.1.0
