@@ -1,5 +1,7 @@
 git+https://github.com/beancount/beanprice.git
-fava_investor==1.0.1
+git+https://github.com/csingley/ibflex.git
+git+https://github.com/alensiljak/alens-importers.git
+# fava_investor==1.0.1
 beancount-share==0.1.11
 beancount-refried==0.7.0
 nordigen==1.4.2
