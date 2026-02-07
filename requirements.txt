@@ -1,6 +1,6 @@
 git+https://github.com/beancount/beanprice.git
-git+https://github.com/csingley/ibflex.git
 git+https://github.com/alensiljak/alens-importers.git
+ibflex2
 # fava_investor==1.0.1
 beancount-share==0.1.11
 beancount-refried==0.7.0
