@@ -11,7 +11,7 @@ RUN pip install -r requirements.txt
 RUN pip uninstall -y ibflex || true
 
 # Re‑install ibflex2 so that `import ibflex` imports the maintained fork
-RUN pip install --force-reinstall --no-deps ibflex2
+RUN pip install --force-reinstall git+https://github.com/agusalex/ibflex
 
 RUN touch /var/log/cron.log
 # Setup cron job
